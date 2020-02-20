@@ -17,7 +17,7 @@
     "js-sdk"
   ],
   "author": "Dove Chen",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/DoveChen/work-weixin-js-sdk/issues"
   },
