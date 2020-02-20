@@ -1,0 +1,25 @@
+{
+  "name": "work-weixin-js-sdk",
+  "version": "1.2.0",
+  "description": "企业微信 js-sdk",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DoveChen/work-weixin-js-sdk.git"
+  },
+  "keywords": [
+    "work",
+    "work-weixin",
+    "js",
+    "js-sdk"
+  ],
+  "author": "Dove Chen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DoveChen/work-weixin-js-sdk/issues"
+  },
+  "homepage": "https://github.com/DoveChen/work-weixin-js-sdk#readme"
+}
